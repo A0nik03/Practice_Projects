@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="japan_flag"><![CDATA[https://c4.wallpaperflare.com/wallpaper/145/273/133/japan-japanese-flag-flag-japan-wallpaper-preview.jpg]]></string>
+    <string name="aus_flag">https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg</string>
+    <string name="canada_flag">https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png</string>
+    <string name="india_flag">https://t3.ftcdn.net/jpg/02/95/05/10/360_F_295051081_kLAUYvkdsMR3jRFLPShl9WrGgRV9zSda.jpg</string>
+</resources>
